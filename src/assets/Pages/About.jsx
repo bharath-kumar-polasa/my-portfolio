@@ -1,4 +1,4 @@
-import SkillCard from '../components/SkillCard';
+import SkillCard from '../components/SkillCard.jsx';
 import { FaCode, FaGraduationCap, FaLaptopCode } from 'react-icons/fa';
 
 const skills = [
