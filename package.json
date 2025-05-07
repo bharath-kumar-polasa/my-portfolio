@@ -2,7 +2,7 @@
   "name": "bharath-polasa-portfolio",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://bharath-kumar-polasa.github.io/bharath-polasa-portfolio/",
+  "homepage": "https://bharath-kumar-polasa.github.io/my-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
